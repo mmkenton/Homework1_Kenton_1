@@ -1,0 +1,1 @@
+Version control is important because it keeps work from being completely lost and makes previous versions available to access.
